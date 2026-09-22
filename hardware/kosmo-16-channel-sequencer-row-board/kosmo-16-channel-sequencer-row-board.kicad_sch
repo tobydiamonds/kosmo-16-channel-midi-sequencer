@@ -3371,6 +3371,12 @@
 		(uuid "4e15caa0-9ad5-4119-b2f5-9e5a1f60f7e8")
 	)
 	(junction
+		(at 57.15 100.33)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4e4c04ba-6545-4366-9afd-dddb9e14bb87")
+	)
+	(junction
 		(at 100.33 100.33)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4404,6 +4410,16 @@
 	)
 	(wire
 		(pts
+			(xy 57.15 100.33) (xy 71.12 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "812161a8-baf8-4500-855d-a68527e9ec86")
+	)
+	(wire
+		(pts
 			(xy 83.82 107.95) (xy 93.98 107.95)
 		)
 		(stroke
@@ -4474,7 +4490,7 @@
 	)
 	(wire
 		(pts
-			(xy 52.07 100.33) (xy 71.12 100.33)
+			(xy 52.07 100.33) (xy 57.15 100.33)
 		)
 		(stroke
 			(width 0)
@@ -8926,6 +8942,83 @@
 			(project "kosmo-16-channel-sequencer-row-board"
 				(path "/a54f4241-b83c-42c9-8a43-a4038e61e150"
 					(reference "C1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:PWR_FLAG")
+		(at 57.15 100.33 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "552860b9-14e6-4e73-af8d-4acb92422f92")
+		(property "Reference" "#FLG03"
+			(at 57.15 98.425 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "PWR_FLAG"
+			(at 67.818 102.108 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 57.15 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 57.15 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Special symbol for telling ERC where power comes from"
+			(at 57.15 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "e0c18504-98fa-4f19-aa66-d9b832e6b8ab")
+		)
+		(instances
+			(project "kosmo-16-channel-sequencer-row-board"
+				(path "/a54f4241-b83c-42c9-8a43-a4038e61e150"
+					(reference "#FLG03")
 					(unit 1)
 				)
 			)

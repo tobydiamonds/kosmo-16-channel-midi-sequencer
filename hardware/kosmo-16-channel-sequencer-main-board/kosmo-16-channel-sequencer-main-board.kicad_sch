@@ -6371,6 +6371,12 @@
 		(uuid "53ff6e8d-04dd-46da-bf50-454b6fbd6d21")
 	)
 	(junction
+		(at 135.89 33.02)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "61e24928-af48-4d51-9ba0-f0089d61043a")
+	)
+	(junction
 		(at 240.03 26.67)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -8598,6 +8604,16 @@
 	)
 	(wire
 		(pts
+			(xy 135.89 33.02) (xy 142.24 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "760f993d-a4d6-47ad-8851-740e4e58b041")
+	)
+	(wire
+		(pts
 			(xy 349.25 189.23) (xy 365.76 189.23)
 		)
 		(stroke
@@ -9748,7 +9764,7 @@
 	)
 	(wire
 		(pts
-			(xy 130.81 33.02) (xy 142.24 33.02)
+			(xy 130.81 33.02) (xy 135.89 33.02)
 		)
 		(stroke
 			(width 0)
@@ -13257,6 +13273,84 @@
 		)
 	)
 	(symbol
+		(lib_id "power:PWR_FLAG")
+		(at 135.89 33.02 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "2295ac71-dae7-49cf-ba57-48fc4be48b30")
+		(property "Reference" "#FLG07"
+			(at 135.89 31.115 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "PWR_FLAG"
+			(at 135.89 27.94 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 135.89 33.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 135.89 33.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Special symbol for telling ERC where power comes from"
+			(at 135.89 33.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "89d665b9-8198-4ca9-87bd-4f0df64c35c2")
+		)
+		(instances
+			(project "kosmo-16-channel-sequencer-main-board"
+				(path "/a54f4241-b83c-42c9-8a43-a4038e61e150"
+					(reference "#FLG07")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Connector:Conn_01x04_Pin")
 		(at 274.32 127 0)
 		(unit 1)
@@ -15950,7 +16044,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-12_W7.62mm"
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 372.11 87.63 0)
 			(hide yes)
 			(show_name no)
@@ -16066,7 +16160,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-12_W7.62mm"
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 242.57 67.31 0)
 			(hide yes)
 			(show_name no)
@@ -16182,7 +16276,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-12_W7.62mm"
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 238.76 120.65 0)
 			(hide yes)
 			(show_name no)
@@ -16298,7 +16392,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-12_W7.62mm"
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 242.57 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -16414,7 +16508,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-12_W7.62mm"
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 242.57 82.55 0)
 			(hide yes)
 			(show_name no)
