@@ -19,4 +19,4 @@ _autosave-*
 *.gbr
 *.gbrjob
 *.drl
-*-gerber.zip
+**/export/*.zip
