@@ -930,7 +930,7 @@
 		(descr "C, Disc series, Radial, pin pitch=5.00mm, diameter*width=5*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf")
 		(tags "C Disc series Radial pin pitch 5.00mm diameter 5mm width 2.5mm Capacitor")
 		(property "Reference" "C15"
-			(at 2.5 -2.5 0)
+			(at 7.645861 1.038374 0)
 			(layer "F.SilkS")
 			(uuid "51b8c4fd-bc17-47b9-b103-09b1e2e0c5da")
 			(effects
@@ -5778,7 +5778,7 @@
 		(descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=7.62mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 7.62mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
 		(property "Reference" "R26"
-			(at 3.81 -2.37 0)
+			(at 0.854139 2.461626 0)
 			(layer "F.SilkS")
 			(uuid "bbb2a4b0-784f-414f-bbba-3b0a39262c0b")
 			(effects
@@ -5992,7 +5992,7 @@
 		(descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=7.62mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 7.62mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
 		(property "Reference" "R42"
-			(at 3.81 -2.37 0)
+			(at -2.734139 0.038374 0)
 			(layer "F.SilkS")
 			(uuid "e2415a3f-9aaf-4e35-8d03-4866a687638b")
 			(effects
@@ -8548,7 +8548,7 @@
 		(descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=7.62mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 7.62mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
 		(property "Reference" "R33"
-			(at 3.81 -2.37 0)
+			(at -3.044139 0.038374 0)
 			(layer "F.SilkS")
 			(uuid "e4f2c2d4-a082-43b0-bf4e-a97effdaa7a2")
 			(effects
@@ -8762,7 +8762,7 @@
 		(descr "CP, Radial series, Radial, pin pitch=2.50mm, diameter=6.3mm, height=7mm, Electrolytic Capacitor")
 		(tags "CP Radial series Radial pin pitch 2.50mm diameter 6.3mm height 7mm Electrolytic Capacitor")
 		(property "Reference" "C14"
-			(at 1.25 -4.4 0)
+			(at 6.145861 -0.461626 0)
 			(layer "F.SilkS")
 			(uuid "f83bd627-adbe-4eee-a6e4-0c5d6d9fb3b8")
 			(effects
@@ -12916,7 +12916,7 @@
 		(descr "24-lead surface-mounted (SMD) DIP package, row spacing 15.24mm (600 mils)")
 		(tags "SMD DIP DIL PDIP SMDIP 2.54mm 15.24mm 600mil")
 		(property "Reference" "U32"
-			(at 0 -16.3 0)
+			(at 11.734139 14.531626 0)
 			(layer "F.SilkS")
 			(uuid "d72fd61e-6655-4f74-b3f9-c9c58560eb21")
 			(effects
@@ -15089,7 +15089,7 @@
 		(descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=7.62mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 7.62mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
 		(property "Reference" "R60"
-			(at 3.81 -2.37 0)
+			(at -2.835861 0.961626 0)
 			(layer "F.SilkS")
 			(uuid "e399dc88-0e3d-48c8-aeaa-9820e389ac1a")
 			(effects
@@ -22358,7 +22358,7 @@
 		(descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=7.62mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 7.62mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
 		(property "Reference" "R37"
-			(at 3.81 -2.37 0)
+			(at -2.55159 -0.171823 0)
 			(layer "F.SilkS")
 			(uuid "ed06f2b2-8efc-47f4-865e-834bb23e381e")
 			(effects
@@ -22786,7 +22786,7 @@
 		(descr "CP, Radial series, Radial, pin pitch=2.50mm, diameter=6.3mm, height=7mm, Electrolytic Capacitor")
 		(tags "CP Radial series Radial pin pitch 2.50mm diameter 6.3mm height 7mm Electrolytic Capacitor")
 		(property "Reference" "C20"
-			(at 1.25 -4.4 90)
+			(at -0.038374 -4.354139 90)
 			(layer "F.SilkS")
 			(uuid "0977e956-f238-4d40-b313-da9a041deba4")
 			(effects
@@ -42542,6 +42542,31 @@
 			"IfVUQPnUOwAAAABJRU5ErkJggg=="
 		)
 		(uuid "948a749e-ce64-417f-877d-518abf7d8c73")
+	)
+	(gr_text "STEP SETTINGS BOARD REV 1.0"
+		(at 48 175 0)
+		(layer "F.SilkS")
+		(uuid "1d83b247-815e-47e1-8101-06766b2e9d13")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "KOSMO 16 CHANNEL MIDI SEQUENCER"
+		(at 47.5 173 0)
+		(layer "F.SilkS" knockout)
+		(uuid "c9533000-0f6a-49e1-a206-ecf8164cdf2d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.2)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
 	)
 	(segment
 		(start 388.645861 117.538374)

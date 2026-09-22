@@ -3727,6 +3727,121 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "power:PWR_FLAG"
+			(power global)
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "#FLG"
+				(at 0 1.905 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "PWR_FLAG"
+				(at 0 3.81 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "Special symbol for telling ERC where power comes from"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "flag power"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "PWR_FLAG_0_0"
+				(pin power_out line
+					(at 0 0 90)
+					(length 0)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(symbol "PWR_FLAG_0_1"
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 1.27) (xy -1.016 1.905) (xy 0 2.54) (xy 1.016 1.905) (xy 0 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 	)
 	(text "GATE"
 		(exclude_from_sim no)
@@ -4006,6 +4121,12 @@
 		(uuid "1fc4b8f6-ce10-4e0a-8b3b-245bafa25d9c")
 	)
 	(junction
+		(at 345.44 340.36)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2136ac7a-448c-48eb-b920-102b003fb6df")
+	)
+	(junction
 		(at 210.82 375.92)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4106,6 +4227,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "334a5b36-f964-4219-a1d1-ce76efb76cec")
+	)
+	(junction
+		(at 397.51 340.36)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "341f881f-92b1-42ee-8461-6c969688e076")
 	)
 	(junction
 		(at 129.54 208.28)
@@ -4280,6 +4407,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5917a315-51ab-428d-ab40-5f06fa04bc64")
+	)
+	(junction
+		(at 400.05 353.06)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5c0d2c61-2e70-4611-af4d-266fc04c8c89")
 	)
 	(junction
 		(at 260.35 146.05)
@@ -6699,7 +6832,7 @@
 	)
 	(wire
 		(pts
-			(xy 379.73 340.36) (xy 403.86 340.36)
+			(xy 379.73 340.36) (xy 397.51 340.36)
 		)
 		(stroke
 			(width 0)
@@ -10429,6 +10562,16 @@
 	)
 	(wire
 		(pts
+			(xy 397.51 340.36) (xy 403.86 340.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "929c09df-2396-4fc3-914e-7eecd143563d")
+	)
+	(wire
+		(pts
 			(xy 247.65 237.49) (xy 247.65 246.38)
 		)
 		(stroke
@@ -11099,7 +11242,7 @@
 	)
 	(wire
 		(pts
-			(xy 379.73 353.06) (xy 403.86 353.06)
+			(xy 379.73 353.06) (xy 400.05 353.06)
 		)
 		(stroke
 			(width 0)
@@ -11429,7 +11572,7 @@
 	)
 	(wire
 		(pts
-			(xy 367.03 340.36) (xy 344.17 340.36)
+			(xy 367.03 340.36) (xy 345.44 340.36)
 		)
 		(stroke
 			(width 0)
@@ -12766,6 +12909,16 @@
 			(type default)
 		)
 		(uuid "ce56a21c-84b8-4c67-9723-8379039549e0")
+	)
+	(wire
+		(pts
+			(xy 345.44 340.36) (xy 344.17 340.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ce5d2a64-ceca-4f36-9ee4-ef64add979e6")
 	)
 	(wire
 		(pts
@@ -14426,6 +14579,16 @@
 			(type default)
 		)
 		(uuid "fabab071-c73b-4b68-b36c-774226e37bd4")
+	)
+	(wire
+		(pts
+			(xy 400.05 353.06) (xy 403.86 353.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "faeb0dae-dcc5-415a-9a35-24e77176233c")
 	)
 	(wire
 		(pts
@@ -17363,6 +17526,84 @@
 			(project "kosmo-16-channel-sequencer-step-settings-board"
 				(path "/a54f4241-b83c-42c9-8a43-a4038e61e150"
 					(reference "C14")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:PWR_FLAG")
+		(at 397.51 340.36 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0a9c8eff-1bd0-402a-b30d-a58053ef801f")
+		(property "Reference" "#FLG01"
+			(at 397.51 338.455 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "PWR_FLAG"
+			(at 397.51 335.28 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 397.51 340.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 397.51 340.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Special symbol for telling ERC where power comes from"
+			(at 397.51 340.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "14c93a56-dd26-4364-b203-06b22a5b66ba")
+		)
+		(instances
+			(project "kosmo-16-channel-sequencer-step-settings-board"
+				(path "/a54f4241-b83c-42c9-8a43-a4038e61e150"
+					(reference "#FLG01")
 					(unit 1)
 				)
 			)
@@ -21027,6 +21268,84 @@
 		)
 	)
 	(symbol
+		(lib_id "power:PWR_FLAG")
+		(at 345.44 340.36 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4e4646a0-2690-41bb-bbc5-ce5f540c956b")
+		(property "Reference" "#FLG03"
+			(at 345.44 338.455 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "PWR_FLAG"
+			(at 345.44 335.28 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 345.44 340.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 345.44 340.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Special symbol for telling ERC where power comes from"
+			(at 345.44 340.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "192a7c57-e4f0-41bc-86be-c39f1dd75753")
+		)
+		(instances
+			(project "kosmo-16-channel-sequencer-step-settings-board"
+				(path "/a54f4241-b83c-42c9-8a43-a4038e61e150"
+					(reference "#FLG03")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
 		(at 436.88 246.38 90)
 		(unit 1)
@@ -23640,6 +23959,84 @@
 			(project "kosmo-16-channel-sequencer-step-settings-board"
 				(path "/a54f4241-b83c-42c9-8a43-a4038e61e150"
 					(reference "R37")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:PWR_FLAG")
+		(at 400.05 353.06 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "761483b7-5f70-410b-a5a7-3748abed1cf9")
+		(property "Reference" "#FLG02"
+			(at 400.05 351.155 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "PWR_FLAG"
+			(at 400.05 347.98 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 400.05 353.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 400.05 353.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Special symbol for telling ERC where power comes from"
+			(at 400.05 353.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "01e2824f-5669-4cb4-8a75-7cdab58143d2")
+		)
+		(instances
+			(project "kosmo-16-channel-sequencer-step-settings-board"
+				(path "/a54f4241-b83c-42c9-8a43-a4038e61e150"
+					(reference "#FLG02")
 					(unit 1)
 				)
 			)
