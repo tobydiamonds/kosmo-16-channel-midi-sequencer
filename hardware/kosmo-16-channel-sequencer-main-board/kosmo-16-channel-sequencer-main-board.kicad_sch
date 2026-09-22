@@ -13088,7 +13088,7 @@
 			(uuid "f5699ac6-0277-4a51-a113-0810c27c1adb")
 		)
 		(instances
-			(project "kosmo-16-channel-sequencer"
+			(project "kosmo-16-channel-sequencer-main-board"
 				(path "/a54f4241-b83c-42c9-8a43-a4038e61e150"
 					(reference "J11")
 					(unit 1)
@@ -13168,7 +13168,7 @@
 			(uuid "67c25bbe-a9f7-4340-8a50-653d31515184")
 		)
 		(instances
-			(project "kosmo-16-channel-sequencer"
+			(project "kosmo-16-channel-sequencer-main-board"
 				(path "/a54f4241-b83c-42c9-8a43-a4038e61e150"
 					(reference "R30")
 					(unit 1)
@@ -13248,7 +13248,7 @@
 			(uuid "4cb199a7-5778-4e04-a3c4-c2a678874e76")
 		)
 		(instances
-			(project "kosmo-16-channel-sequencer"
+			(project "kosmo-16-channel-sequencer-main-board"
 				(path "/a54f4241-b83c-42c9-8a43-a4038e61e150"
 					(reference "R21")
 					(unit 1)
@@ -13334,7 +13334,7 @@
 			(uuid "88bee30b-b343-493b-934e-9fa32eb0ead5")
 		)
 		(instances
-			(project "kosmo-16-channel-sequencer"
+			(project "kosmo-16-channel-sequencer-main-board"
 				(path "/a54f4241-b83c-42c9-8a43-a4038e61e150"
 					(reference "J20")
 					(unit 1)
@@ -13416,7 +13416,7 @@
 			(uuid "8de807a6-478a-4e9e-9191-2a35972744e5")
 		)
 		(instances
-			(project "kosmo-16-channel-sequencer"
+			(project "kosmo-16-channel-sequencer-main-board"
 				(path "/a54f4241-b83c-42c9-8a43-a4038e61e150"
 					(reference "C26")
 					(unit 1)
@@ -13518,7 +13518,7 @@
 			(uuid "48163e35-8bc1-4ee9-b8d5-d4b3a8f472fe")
 		)
 		(instances
-			(project "kosmo-16-channel-sequencer"
+			(project "kosmo-16-channel-sequencer-main-board"
 				(path "/a54f4241-b83c-42c9-8a43-a4038e61e150"
 					(reference "D20")
 					(unit 1)
@@ -13599,7 +13599,7 @@
 			(uuid "ec519680-5152-43a4-8ded-8322838e69fc")
 		)
 		(instances
-			(project "kosmo-16-channel-sequencer"
+			(project "kosmo-16-channel-sequencer-main-board"
 				(path "/a54f4241-b83c-42c9-8a43-a4038e61e150"
 					(reference "J13")
 					(unit 1)
@@ -13696,7 +13696,7 @@
 			(uuid "ae775507-54b6-4e6b-bf43-e3b18551d384")
 		)
 		(instances
-			(project "kosmo-16-channel-sequencer"
+			(project "kosmo-16-channel-sequencer-main-board"
 				(path "/a54f4241-b83c-42c9-8a43-a4038e61e150"
 					(reference "U11")
 					(unit 1)
@@ -13776,7 +13776,7 @@
 			(uuid "7de428cf-5e1a-4db6-a2e0-14968cedf22e")
 		)
 		(instances
-			(project "kosmo-16-channel-sequencer"
+			(project "kosmo-16-channel-sequencer-main-board"
 				(path "/a54f4241-b83c-42c9-8a43-a4038e61e150"
 					(reference "R22")
 					(unit 1)
@@ -13858,7 +13858,7 @@
 			(uuid "f7c60607-13ed-4e43-9e4c-b61823bb571f")
 		)
 		(instances
-			(project "kosmo-16-channel-sequencer"
+			(project "kosmo-16-channel-sequencer-main-board"
 				(path "/a54f4241-b83c-42c9-8a43-a4038e61e150"
 					(reference "R69")
 					(unit 1)
@@ -13992,7 +13992,7 @@
 			(uuid "8a2d86d3-15ad-4c8e-a947-d71ef3d6dafc")
 		)
 		(instances
-			(project "kosmo-16-channel-sequencer"
+			(project "kosmo-16-channel-sequencer-main-board"
 				(path "/a54f4241-b83c-42c9-8a43-a4038e61e150"
 					(reference "J10")
 					(unit 1)
@@ -14070,7 +14070,7 @@
 			(uuid "342f8c10-7420-4e6c-80da-f79f396bd6cf")
 		)
 		(instances
-			(project "kosmo-16-channel-sequencer"
+			(project "kosmo-16-channel-sequencer-main-board"
 				(path "/a54f4241-b83c-42c9-8a43-a4038e61e150"
 					(reference "#PWR015")
 					(unit 1)
@@ -14151,7 +14151,7 @@
 			(uuid "35d30093-10a7-4d87-98cd-e5a7c3ebec80")
 		)
 		(instances
-			(project "kosmo-16-channel-sequencer"
+			(project "kosmo-16-channel-sequencer-main-board"
 				(path "/a54f4241-b83c-42c9-8a43-a4038e61e150"
 					(reference "J19")
 					(unit 1)
@@ -14234,7 +14234,7 @@
 			(uuid "c575f31f-eae2-4e3e-af2b-3a0a3d43e503")
 		)
 		(instances
-			(project "kosmo-16-channel-sequencer"
+			(project "kosmo-16-channel-sequencer-main-board"
 				(path "/a54f4241-b83c-42c9-8a43-a4038e61e150"
 					(reference "F1")
 					(unit 1)
@@ -14316,7 +14316,7 @@
 			(uuid "48b1111d-d4cd-4874-a6f7-7d875903340a")
 		)
 		(instances
-			(project "kosmo-16-channel-sequencer"
+			(project "kosmo-16-channel-sequencer-main-board"
 				(path "/a54f4241-b83c-42c9-8a43-a4038e61e150"
 					(reference "R24")
 					(unit 1)
@@ -14450,7 +14450,7 @@
 			(uuid "ab77a5cf-c525-40f1-98fc-de79a90989a6")
 		)
 		(instances
-			(project "kosmo-16-channel-sequencer"
+			(project "kosmo-16-channel-sequencer-main-board"
 				(path "/a54f4241-b83c-42c9-8a43-a4038e61e150"
 					(reference "J6")
 					(unit 1)
@@ -14528,7 +14528,7 @@
 			(uuid "89e882ed-4251-4e27-a43f-17d03fc5a5e5")
 		)
 		(instances
-			(project "kosmo-16-channel-sequencer"
+			(project "kosmo-16-channel-sequencer-main-board"
 				(path "/a54f4241-b83c-42c9-8a43-a4038e61e150"
 					(reference "#FLG05")
 					(unit 1)
@@ -14609,7 +14609,7 @@
 			(uuid "37898c1e-6f2f-457a-98db-9016a76f8885")
 		)
 		(instances
-			(project "kosmo-16-channel-sequencer"
+			(project "kosmo-16-channel-sequencer-main-board"
 				(path "/a54f4241-b83c-42c9-8a43-a4038e61e150"
 					(reference "J21")
 					(unit 1)
@@ -14691,7 +14691,7 @@
 			(uuid "93d5ec72-238a-43fe-b141-6dac28fa8c34")
 		)
 		(instances
-			(project "kosmo-16-channel-sequencer"
+			(project "kosmo-16-channel-sequencer-main-board"
 				(path "/a54f4241-b83c-42c9-8a43-a4038e61e150"
 					(reference "R71")
 					(unit 1)
@@ -14775,7 +14775,7 @@
 			(uuid "a619c73a-ea9f-4de1-ba3c-f2dccc0d86a2")
 		)
 		(instances
-			(project "kosmo-16-channel-sequencer"
+			(project "kosmo-16-channel-sequencer-main-board"
 				(path "/a54f4241-b83c-42c9-8a43-a4038e61e150"
 					(reference "J31")
 					(unit 1)
@@ -14853,7 +14853,7 @@
 			(uuid "2570c2c0-2175-4690-b338-50e26710563b")
 		)
 		(instances
-			(project "kosmo-16-channel-sequencer"
+			(project "kosmo-16-channel-sequencer-main-board"
 				(path "/a54f4241-b83c-42c9-8a43-a4038e61e150"
 					(reference "#PWR057")
 					(unit 1)
@@ -14987,7 +14987,7 @@
 			(uuid "e4afed5c-eca2-4f98-a9a6-446d2c023edc")
 		)
 		(instances
-			(project "kosmo-16-channel-sequencer"
+			(project "kosmo-16-channel-sequencer-main-board"
 				(path "/a54f4241-b83c-42c9-8a43-a4038e61e150"
 					(reference "J7")
 					(unit 1)
@@ -15121,7 +15121,7 @@
 			(uuid "7f5c0e3a-fd56-4403-a284-6fb921804fa3")
 		)
 		(instances
-			(project "kosmo-16-channel-sequencer"
+			(project "kosmo-16-channel-sequencer-main-board"
 				(path "/a54f4241-b83c-42c9-8a43-a4038e61e150"
 					(reference "J5")
 					(unit 1)
@@ -15203,7 +15203,7 @@
 			(uuid "bdc9dfb8-e9bf-4ca9-b231-2ac11828fa04")
 		)
 		(instances
-			(project "kosmo-16-channel-sequencer"
+			(project "kosmo-16-channel-sequencer-main-board"
 				(path "/a54f4241-b83c-42c9-8a43-a4038e61e150"
 					(reference "C24")
 					(unit 1)
@@ -15337,7 +15337,7 @@
 			(uuid "c8ad2b9d-da34-4f17-a17d-18c480c7535d")
 		)
 		(instances
-			(project "kosmo-16-channel-sequencer"
+			(project "kosmo-16-channel-sequencer-main-board"
 				(path "/a54f4241-b83c-42c9-8a43-a4038e61e150"
 					(reference "J9")
 					(unit 1)
@@ -15612,7 +15612,7 @@
 			(uuid "6d20ed49-31de-440b-85cd-29a9ee9e5974")
 		)
 		(instances
-			(project "kosmo-16-channel-sequencer"
+			(project "kosmo-16-channel-sequencer-main-board"
 				(path "/a54f4241-b83c-42c9-8a43-a4038e61e150"
 					(reference "U2")
 					(unit 1)
@@ -15694,7 +15694,7 @@
 			(uuid "a50374a8-8ecb-4dc6-960d-938f5ceff13b")
 		)
 		(instances
-			(project "kosmo-16-channel-sequencer"
+			(project "kosmo-16-channel-sequencer-main-board"
 				(path "/a54f4241-b83c-42c9-8a43-a4038e61e150"
 					(reference "R70")
 					(unit 1)
@@ -15776,7 +15776,7 @@
 			(uuid "54ac1992-8afe-48e2-9b93-64e15987e00c")
 		)
 		(instances
-			(project "kosmo-16-channel-sequencer"
+			(project "kosmo-16-channel-sequencer-main-board"
 				(path "/a54f4241-b83c-42c9-8a43-a4038e61e150"
 					(reference "R68")
 					(unit 1)
@@ -15910,7 +15910,7 @@
 			(uuid "d07f874e-f8ee-4a18-b5bb-e10519952318")
 		)
 		(instances
-			(project "kosmo-16-channel-sequencer"
+			(project "kosmo-16-channel-sequencer-main-board"
 				(path "/a54f4241-b83c-42c9-8a43-a4038e61e150"
 					(reference "J12")
 					(unit 1)
@@ -16026,7 +16026,7 @@
 			(uuid "86a734a9-1d31-4eaf-8972-561a4dcb4a34")
 		)
 		(instances
-			(project "kosmo-16-channel-sequencer"
+			(project "kosmo-16-channel-sequencer-main-board"
 				(path "/a54f4241-b83c-42c9-8a43-a4038e61e150"
 					(reference "U33")
 					(unit 4)
@@ -16142,7 +16142,7 @@
 			(uuid "86a734a9-1d31-4eaf-8972-561a4dcb4a35")
 		)
 		(instances
-			(project "kosmo-16-channel-sequencer"
+			(project "kosmo-16-channel-sequencer-main-board"
 				(path "/a54f4241-b83c-42c9-8a43-a4038e61e150"
 					(reference "U33")
 					(unit 3)
@@ -16258,7 +16258,7 @@
 			(uuid "86a734a9-1d31-4eaf-8972-561a4dcb4a36")
 		)
 		(instances
-			(project "kosmo-16-channel-sequencer"
+			(project "kosmo-16-channel-sequencer-main-board"
 				(path "/a54f4241-b83c-42c9-8a43-a4038e61e150"
 					(reference "U33")
 					(unit 5)
@@ -16374,7 +16374,7 @@
 			(uuid "86a734a9-1d31-4eaf-8972-561a4dcb4a37")
 		)
 		(instances
-			(project "kosmo-16-channel-sequencer"
+			(project "kosmo-16-channel-sequencer-main-board"
 				(path "/a54f4241-b83c-42c9-8a43-a4038e61e150"
 					(reference "U33")
 					(unit 2)
@@ -16490,7 +16490,7 @@
 			(uuid "86a734a9-1d31-4eaf-8972-561a4dcb4a38")
 		)
 		(instances
-			(project "kosmo-16-channel-sequencer"
+			(project "kosmo-16-channel-sequencer-main-board"
 				(path "/a54f4241-b83c-42c9-8a43-a4038e61e150"
 					(reference "U33")
 					(unit 1)
@@ -16592,7 +16592,7 @@
 			(uuid "bed77f4e-c6f5-4ae3-bad0-275c49a810de")
 		)
 		(instances
-			(project "kosmo-16-channel-sequencer"
+			(project "kosmo-16-channel-sequencer-main-board"
 				(path "/a54f4241-b83c-42c9-8a43-a4038e61e150"
 					(reference "D18")
 					(unit 1)
@@ -16673,7 +16673,7 @@
 			(uuid "503be342-4050-4670-b7f6-a8ff86a2dedc")
 		)
 		(instances
-			(project "kosmo-16-channel-sequencer"
+			(project "kosmo-16-channel-sequencer-main-board"
 				(path "/a54f4241-b83c-42c9-8a43-a4038e61e150"
 					(reference "J18")
 					(unit 1)
@@ -16807,7 +16807,7 @@
 			(uuid "4824dc00-66b0-4283-8928-ece8cdcd0e87")
 		)
 		(instances
-			(project "kosmo-16-channel-sequencer"
+			(project "kosmo-16-channel-sequencer-main-board"
 				(path "/a54f4241-b83c-42c9-8a43-a4038e61e150"
 					(reference "J1")
 					(unit 1)
@@ -16887,7 +16887,7 @@
 			(uuid "e448188b-f105-45ee-93fc-9295c11efddf")
 		)
 		(instances
-			(project "kosmo-16-channel-sequencer"
+			(project "kosmo-16-channel-sequencer-main-board"
 				(path "/a54f4241-b83c-42c9-8a43-a4038e61e150"
 					(reference "R67")
 					(unit 1)
@@ -17021,7 +17021,7 @@
 			(uuid "075282e4-1e8c-4651-a5b0-484c3981bfdf")
 		)
 		(instances
-			(project "kosmo-16-channel-sequencer"
+			(project "kosmo-16-channel-sequencer-main-board"
 				(path "/a54f4241-b83c-42c9-8a43-a4038e61e150"
 					(reference "J8")
 					(unit 1)
@@ -17105,7 +17105,7 @@
 			(uuid "e6da91ca-fbc4-4db9-9b71-47569002662b")
 		)
 		(instances
-			(project "kosmo-16-channel-sequencer"
+			(project "kosmo-16-channel-sequencer-main-board"
 				(path "/a54f4241-b83c-42c9-8a43-a4038e61e150"
 					(reference "J17")
 					(unit 1)
@@ -17239,7 +17239,7 @@
 			(uuid "a4560f4c-3680-4448-8502-d209427dd561")
 		)
 		(instances
-			(project "kosmo-16-channel-sequencer"
+			(project "kosmo-16-channel-sequencer-main-board"
 				(path "/a54f4241-b83c-42c9-8a43-a4038e61e150"
 					(reference "J4")
 					(unit 1)
@@ -17319,7 +17319,7 @@
 			(uuid "a7a0b391-a405-460a-a82b-bb05304a9356")
 		)
 		(instances
-			(project "kosmo-16-channel-sequencer"
+			(project "kosmo-16-channel-sequencer-main-board"
 				(path "/a54f4241-b83c-42c9-8a43-a4038e61e150"
 					(reference "R23")
 					(unit 1)
@@ -17399,7 +17399,7 @@
 			(uuid "73ead6c0-834b-4c3d-98b9-276e4ab00bb3")
 		)
 		(instances
-			(project "kosmo-16-channel-sequencer"
+			(project "kosmo-16-channel-sequencer-main-board"
 				(path "/a54f4241-b83c-42c9-8a43-a4038e61e150"
 					(reference "R19")
 					(unit 1)
@@ -17479,7 +17479,7 @@
 			(uuid "4075ee1e-c8a9-4c93-8351-566a517884e5")
 		)
 		(instances
-			(project "kosmo-16-channel-sequencer"
+			(project "kosmo-16-channel-sequencer-main-board"
 				(path "/a54f4241-b83c-42c9-8a43-a4038e61e150"
 					(reference "R20")
 					(unit 1)
@@ -17581,7 +17581,7 @@
 			(uuid "7cfea580-8799-4fba-9422-bb50f0db8a43")
 		)
 		(instances
-			(project "kosmo-16-channel-sequencer"
+			(project "kosmo-16-channel-sequencer-main-board"
 				(path "/a54f4241-b83c-42c9-8a43-a4038e61e150"
 					(reference "D17")
 					(unit 1)
@@ -17715,7 +17715,7 @@
 			(uuid "36c78b51-9e6b-49b9-b9b1-f2cbc5b01916")
 		)
 		(instances
-			(project "kosmo-16-channel-sequencer"
+			(project "kosmo-16-channel-sequencer-main-board"
 				(path "/a54f4241-b83c-42c9-8a43-a4038e61e150"
 					(reference "J2")
 					(unit 1)
@@ -17849,7 +17849,7 @@
 			(uuid "db7b1197-c970-40c9-ab95-a431be24f643")
 		)
 		(instances
-			(project "kosmo-16-channel-sequencer"
+			(project "kosmo-16-channel-sequencer-main-board"
 				(path "/a54f4241-b83c-42c9-8a43-a4038e61e150"
 					(reference "J3")
 					(unit 1)
@@ -17938,7 +17938,7 @@
 			(uuid "c6d76376-ca85-4cbf-8ae6-d261387ca638")
 		)
 		(instances
-			(project "kosmo-16-channel-sequencer"
+			(project "kosmo-16-channel-sequencer-main-board"
 				(path "/a54f4241-b83c-42c9-8a43-a4038e61e150"
 					(reference "J30")
 					(unit 1)
@@ -18016,7 +18016,7 @@
 			(uuid "83eee729-35f9-470e-9a00-a52d1189c18b")
 		)
 		(instances
-			(project "kosmo-16-channel-sequencer"
+			(project "kosmo-16-channel-sequencer-main-board"
 				(path "/a54f4241-b83c-42c9-8a43-a4038e61e150"
 					(reference "#FLG06")
 					(unit 1)
@@ -18132,7 +18132,7 @@
 			(uuid "d8b840b2-5ba4-4744-88f1-55dbae507429")
 		)
 		(instances
-			(project "kosmo-16-channel-sequencer"
+			(project "kosmo-16-channel-sequencer-main-board"
 				(path "/a54f4241-b83c-42c9-8a43-a4038e61e150"
 					(reference "U12")
 					(unit 2)
@@ -18248,7 +18248,7 @@
 			(uuid "d8b840b2-5ba4-4744-88f1-55dbae50742a")
 		)
 		(instances
-			(project "kosmo-16-channel-sequencer"
+			(project "kosmo-16-channel-sequencer-main-board"
 				(path "/a54f4241-b83c-42c9-8a43-a4038e61e150"
 					(reference "U12")
 					(unit 4)
@@ -18364,7 +18364,7 @@
 			(uuid "d8b840b2-5ba4-4744-88f1-55dbae50742b")
 		)
 		(instances
-			(project "kosmo-16-channel-sequencer"
+			(project "kosmo-16-channel-sequencer-main-board"
 				(path "/a54f4241-b83c-42c9-8a43-a4038e61e150"
 					(reference "U12")
 					(unit 5)
@@ -18480,7 +18480,7 @@
 			(uuid "d8b840b2-5ba4-4744-88f1-55dbae50742c")
 		)
 		(instances
-			(project "kosmo-16-channel-sequencer"
+			(project "kosmo-16-channel-sequencer-main-board"
 				(path "/a54f4241-b83c-42c9-8a43-a4038e61e150"
 					(reference "U12")
 					(unit 1)
@@ -18596,7 +18596,7 @@
 			(uuid "d8b840b2-5ba4-4744-88f1-55dbae50742d")
 		)
 		(instances
-			(project "kosmo-16-channel-sequencer"
+			(project "kosmo-16-channel-sequencer-main-board"
 				(path "/a54f4241-b83c-42c9-8a43-a4038e61e150"
 					(reference "U12")
 					(unit 6)
@@ -18712,7 +18712,7 @@
 			(uuid "d8b840b2-5ba4-4744-88f1-55dbae50742e")
 		)
 		(instances
-			(project "kosmo-16-channel-sequencer"
+			(project "kosmo-16-channel-sequencer-main-board"
 				(path "/a54f4241-b83c-42c9-8a43-a4038e61e150"
 					(reference "U12")
 					(unit 7)
@@ -18828,102 +18828,10 @@
 			(uuid "d8b840b2-5ba4-4744-88f1-55dbae50742f")
 		)
 		(instances
-			(project "kosmo-16-channel-sequencer"
+			(project "kosmo-16-channel-sequencer-main-board"
 				(path "/a54f4241-b83c-42c9-8a43-a4038e61e150"
 					(reference "U12")
 					(unit 3)
-				)
-			)
-		)
-	)
-	(sheet
-		(at 2.794 310.388)
-		(size 95.504 62.738)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0)
-		)
-		(uuid "43850626-2fc5-495a-bd6c-17456bedc8fa")
-		(property "Sheetname" "row-board"
-			(at 2.794 309.6764 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "row-board.kicad_sch"
-			(at 2.794 373.7106 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(instances
-			(project "kosmo-16-channel-sequencer"
-				(path "/a54f4241-b83c-42c9-8a43-a4038e61e150"
-					(page "3")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 124.206 313.944)
-		(size 91.694 57.404)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0)
-		)
-		(uuid "7ded13cb-aafc-49c5-99cb-8430c763b944")
-		(property "Sheetname" "step-settings-board"
-			(at 124.206 313.2324 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "step-settings-board.kicad_sch"
-			(at 124.206 371.9326 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(instances
-			(project "kosmo-16-channel-sequencer"
-				(path "/a54f4241-b83c-42c9-8a43-a4038e61e150"
-					(page "2")
 				)
 			)
 		)

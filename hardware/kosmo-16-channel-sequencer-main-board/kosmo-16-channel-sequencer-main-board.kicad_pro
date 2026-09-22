@@ -481,7 +481,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "kosmo-16-channel-sequencer.kicad_pro",
+    "filename": "kosmo-16-channel-sequencer-main-board.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -641,8 +641,8 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "kosmo-16-channel-sequencer.kicad_sch",
-        "name": "Roden",
+        "filename": "kosmo-16-channel-sequencer-main-board.kicad_sch",
+        "name": "kosmo-16-channel-sequencer-main-board",
         "uuid": "a54f4241-b83c-42c9-8a43-a4038e61e150"
       }
     ],
@@ -652,15 +652,7 @@
   "sheets": [
     [
       "a54f4241-b83c-42c9-8a43-a4038e61e150",
-      "Roden"
-    ],
-    [
-      "7ded13cb-aafc-49c5-99cb-8430c763b944",
-      "step-settings-board"
-    ],
-    [
-      "43850626-2fc5-495a-bd6c-17456bedc8fa",
-      "row-board"
+      "kosmo-16-channel-sequencer-main-board"
     ]
   ],
   "text_variables": {},

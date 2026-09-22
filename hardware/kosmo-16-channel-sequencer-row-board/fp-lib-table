@@ -1,0 +1,5 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "teensy") (type "KiCad") (uri "${KIPRJMOD}/teensy.pretty") (options "") (descr "Teensy footprints - Teensy41 from XenGi/teensy.pretty, upgraded to KiCad 10 format"))
+	(lib (name "my-footprints-library") (type "KiCad") (uri "C:/Users/tobyd/OneDrive/Workspaces/kosmo/kicad-libs/my-footprints-library.pretty") (options "") (descr ""))
+)
