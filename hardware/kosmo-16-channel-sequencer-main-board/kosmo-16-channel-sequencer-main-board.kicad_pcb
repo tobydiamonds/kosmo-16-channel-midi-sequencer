@@ -10617,7 +10617,7 @@
 			(uuid "b84400ee-7c53-43f9-b77d-641c8a970d14")
 			(effects
 				(font
-					(size 0.7 0.7)
+					(size 0.8 0.8)
 					(thickness 0.15)
 				)
 			)
@@ -10639,7 +10639,7 @@
 			(uuid "487fceee-b687-479f-a67d-84759554211c")
 			(effects
 				(font
-					(size 0.7 0.7)
+					(size 0.8 0.8)
 					(thickness 0.15)
 				)
 			)
