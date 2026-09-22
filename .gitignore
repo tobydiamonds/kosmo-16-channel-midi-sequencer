@@ -14,3 +14,9 @@ _autosave-*
 
 # Credentials
 .credentials
+
+# Fabrication output (regenerated from the .kicad_pcb; stale the moment the board changes)
+*.gbr
+*.gbrjob
+*.drl
+*-gerber.zip
