@@ -1,0 +1,16 @@
+# KiCad local history (contains its own embedded git repo, ~53 MB)
+.history/
+
+# KiCad auto-backups (regenerated on save, ~53 MB of zips)
+*-backups/
+
+# KiCad per-user local state
+*.kicad_prl
+fp-info-cache
+
+# KiCad lock / autosave files (present while a project is open)
+*.lck
+_autosave-*
+
+# Credentials
+.credentials
